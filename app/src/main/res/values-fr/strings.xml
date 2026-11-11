@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">VitaTrack</string>
+    <string name="dashboard">Accueil</string>
+    <string name="history">Historique</string>
+    <string name="devices">Appareils</string>
+    <string name="profile">Profil</string>
+    <string name="steps">Pas</string>
+    <string name="heart_rate">Fréquence cardiaque</string>
+    <string name="oxygen">Niveau d’oxygène</string>
+    <string name="daily_activity">Activité quotidienne</string>
+    <string name="privacy">Confidentialité</string>
+    <string name="medical_disclaimer">VitaTrack suit le bien-être et l’activité. Ce n’est pas un dispositif médical.</string>
+</resources>
