@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">VitaTrack</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="history">History</string>
+    <string name="devices">Devices</string>
+    <string name="profile">Profile</string>
+    <string name="steps">Steps</string>
+    <string name="heart_rate">Heart Rate</string>
+    <string name="oxygen">Oxygen Level</string>
+    <string name="daily_activity">Daily Activity</string>
+    <string name="privacy">Privacy</string>
+    <string name="medical_disclaimer">VitaTrack is for wellness tracking only and is not a medical device.</string>
+</resources>
