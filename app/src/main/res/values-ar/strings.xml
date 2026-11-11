@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">فيتا تراك</string>
+    <string name="dashboard">الرئيسية</string>
+    <string name="history">السجل</string>
+    <string name="devices">الأجهزة</string>
+    <string name="profile">الملف الشخصي</string>
+    <string name="steps">الخطوات</string>
+    <string name="heart_rate">معدل ضربات القلب</string>
+    <string name="oxygen">مستوى الأكسجين</string>
+    <string name="daily_activity">النشاط اليومي</string>
+    <string name="privacy">الخصوصية</string>
+    <string name="medical_disclaimer">فيتا تراك مخصص لمتابعة النشاط والعافية، وليس جهازاً طبياً.</string>
+</resources>
